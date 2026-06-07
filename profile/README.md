@@ -14,13 +14,6 @@ We are an independent builder collective operating within the Logos ecosystem. O
 
 ---
 
-## Active Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-
----
-
 ## Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
