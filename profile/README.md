@@ -14,18 +14,6 @@ We are an independent builder collective operating within the Logos ecosystem. O
 
 ---
 
-## Tech Stack
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![QML](https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white)
-![ZK Proofs](https://img.shields.io/badge/ZK%20Proofs-6E40C9?style=flat)
-![Logos](https://img.shields.io/badge/Logos%20Ecosystem-1A1A2E?style=flat)
-
-`RISC0` · `Shamir's Secret Sharing` · `BIP340` · `LEZ` · `LGX` · `FFI/cbindgen` · `Waku`
-
----
-
 ## Get Involved
 
 We welcome contributors of all backgrounds — cryptography researchers, systems engineers, and frontend developers alike.
