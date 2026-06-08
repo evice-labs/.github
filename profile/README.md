@@ -17,6 +17,6 @@ We welcome contributors of all backgrounds — cryptography researchers, systems
 - 📖 Read our [Contributing Guide](../CONTRIBUTING.md)
 - 🔐 Review our [Security Policy](../SECURITY.md)
 - 📜 Familiarize yourself with our [Code of Conduct](../CODE_OF_CONDUCT.md)
-- 💬 Join the conversation on [Evice Discord](https://discord.gg/logos) and [Logos Discord] (https://discord.gg/evice)
+- 💬 Join the conversation on [Evice Discord](https://discord.gg/) and [Logos Discord](https://discord.gg/logos)
 
 <sub>Evice Labs is an independent builder — not affiliated with the Logos core team.</sub>
