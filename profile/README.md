@@ -14,8 +14,8 @@ We are an independent builder collective operating within the Logos ecosystem. O
 ## Repository Naming
 
 Our repositories follow a simple prefix convention:
-- **`e`** in `e-[project]` — Stands for *Evice*: tooling, SDKs, and apps built by Evice Labs
-- **`el`** in `el-[project]` — Stands for *Evice Logos*: applications built specifically on the Logos ecosystem
+- **`e`** in `e-[project]` — Stands for **Evice**: tooling, SDKs, and apps built by Evice Labs
+- **`el`** in `el-[project]` — Stands for **Evice Logos**: applications built specifically on the Logos ecosystem
 
 ## Get Involved
 
